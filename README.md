@@ -1,0 +1,2 @@
+# encodePPM
+ Encode PPM image
